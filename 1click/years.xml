@@ -1,0 +1,12 @@
+<xml>
+  <dir>
+    <title>2012</title>
+    <link>file://1click/2012.xml</link>
+    <thumbnail></thumbnail>
+  </dir>
+
+  <dir>
+    <title>2013</title>
+    <link>file://1click/2013.xml</link>
+    <thumbnail></thumbnail>
+  </dir>
