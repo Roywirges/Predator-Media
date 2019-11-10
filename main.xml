@@ -1,0 +1,19 @@
+<xml>
+  <dir>
+    <title>1 CLICK MOVIES</title>
+    <link>https://github.com/Roywirges/Predator-Media/blob/master/1click/subs.xml?raw=true</link>
+    <thumbnail>https://github.com/Roywirges/Predator-Media/blob/master/customthumbs/main/ONECLICK.png?raw=true</thumbnail>
+  </dir>
+
+  <dir>
+    <title>TMDB Popular</title>
+    <tmdb>movies/popular</tmdb>
+    <thumbnail>https://github.com/Roywirges/Predator-Media/blob/master/customthumbs/main/TMDBP.png?raw=true</thumbnail>
+  </dir>
+
+  <dir>
+    <title>TMDB Now Playing</title>
+    <tmdb>movies/now_playing</tmdb>
+    <thumbnail>https://github.com/Roywirges/Predator-Media/blob/master/customthumbs/main/TMDBNP.png?raw=true</thumbnail>
+  </dir>
+</xml>
