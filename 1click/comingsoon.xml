@@ -14,6 +14,51 @@
 </item>
 
 <item>
+	<title>Frozen II (2019)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt4520988</imdb>
+		<title>Frozen II</title>
+		<year>2019</year>
+	</meta>
+	<link>
+		<sublink>https://www.youtube.com/watch?v=j4q-vJzpCb4</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/zHQFqG0e5p9Fwhv5v6XIP9fLtYk.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2niqBT3WmbsR8fy07URik6fFJIf.jpg</fanart>
+</item>
+
+<item>
+	<title>Gemini Man (2019)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt1025100</imdb>
+		<title>Gemini Man</title>
+		<year>2019</year>
+	</meta>
+	<link>
+		<sublink>https://www.youtube.com/watch?v=6orc_lHvJKY</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/c3F4P2oauA7IQmy4hM0OmRt2W7d.jpg</fanart>
+</item>
+
+<item>
+	<title>Maleficent: Mistress of Evil (2019)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt4777008</imdb>
+		<title>Maleficent: Mistress of Evil</title>
+		<year>2019</year>
+	</meta>
+	<link>
+<sublink>https://www.youtube.com/watch?v=n0OFH4xpPr4</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg</fanart>
+</item>
+
+<item>
 	<title>Terminator: Dark Fate (2019)</title>
 	<meta>
 		<content>movie</content>
@@ -41,4 +86,19 @@
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/original/dwXmOYJVM1VIkkSXHY5zYSaLJLC.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/tNE9HGcFOH8EpCmzO7XCYwqguI0.jpg</fanart>
+</item>
+
+<item>
+	<title>Zombieland: Double Tap (2019)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt1560220</imdb>
+		<title>Zombieland: Double Tap</title>
+		<year>2019</year>
+	</meta>
+	<link>
+<sublink>https://www.youtube.com/watch?v=ZlW9yhUKlkQ</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/hucoHJGtSHqNyZrrRldrDWlYbjL.jpg</fanart>
 </item>
