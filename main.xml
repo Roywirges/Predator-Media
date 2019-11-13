@@ -6,6 +6,12 @@
   </dir>
 
   <dir>
+    <title>COMING SOON!</title>
+    <link>https://github.com/Roywirges/Predator-Media/blob/master/1click/years.xml?raw=true</link>
+    <thumbnail>https://github.com/Roywirges/Predator-Media/blob/master/customthumbs/main/ONECLICK2.png?raw=true</thumbnail>
+  </dir>
+
+  <dir>
     <title>TMDB Popular</title>
     <tmdb>movies/popular</tmdb>
     <thumbnail>https://github.com/Roywirges/Predator-Media/blob/master/customthumbs/main/TMDBP2.png?raw=true</thumbnail>
