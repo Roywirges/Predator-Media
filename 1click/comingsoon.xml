@@ -27,18 +27,3 @@
 	<thumbnail>https://image.tmdb.org/t/p/original/gBe4ZdS94sZDUZVWClEntRWo5Ha.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg</fanart>
 </item>
-
-<item>
-	<title></title>
-	<meta>
-		<content>movie</content>
-		<imdb></imdb>
-		<title></title>
-		<year></year>
-	</meta>
-	<link>
-		<sublink></sublink>
-	</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</item>

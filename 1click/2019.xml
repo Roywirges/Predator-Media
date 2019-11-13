@@ -328,18 +328,3 @@
 	<thumbnail>https://image.tmdb.org/t/p/original/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/m67smI1IIMmYzCl9axvKNULVKLr.jpg</fanart>
 </item>
-
-<item>
-	<title></title>
-	<meta>
-		<content>movie</content>
-		<imdb></imdb>
-		<title></title>
-		<year></year>
-	</meta>
-	<link>
-		<sublink></sublink>
-	</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</item>
